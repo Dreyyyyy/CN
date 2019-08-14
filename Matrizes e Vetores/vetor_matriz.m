@@ -13,3 +13,10 @@ A.*C
 A/B
 A./B
 B\D
+
+t1 = 1:10
+t2 = 1:0.5:3
+t3 = 10:-1:5
+t4 = linspace(1,10,10)
+t5 = linspace(1,10,10)
+t6 = linspace(1,10)
